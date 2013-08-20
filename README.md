@@ -55,8 +55,9 @@ Required external jars:
 	sl4fj-log4j12-1.7.5
 
 ========
-To use as library, import com.
-and use 
+To use as library, import com.jimplush.goose.main and use 
 
 	Main.extractImage(url, storagePath, imagemagickPath);
-Or the full method with the booleans.
+Or the full method with the booleans. For example,
+
+	String imageUrl = Main.extractImage("http://techcrunch.com", "C:/users/owner/My Documents", "C:/Program Files/ImageMagick-6.8.6-Q16");
