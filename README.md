@@ -26,6 +26,21 @@ http://belleofthelibrary.com/
 http://hippiecahier.com/
 http://colleenbriggs.com/
 
-Will all yield good results.
+Will all yield good results. (Some need CSS to be enabled).
 
- http://makeapowerfulpoint.com/ will work correctly if CSS is disabled, but will give the background texture if CSS is enabled. 
+ http://makeapowerfulpoint.com/ will work correctly if CSS is disabled, but will give the background texture if CSS is enabled.
+
+Note that I made the pref.txt interface for human ease of use. For easier compatability with desired program, you can easily change main (which is in src/com/jimplush/goose/Main).
+
+========
+
+Required external jars:
+commons-io-2.4
+commons-lang-2.6
+commons--logging-1.1.3
+httpclient-4.2.5
+httpcore-4.4.4
+jsoup-1.7.2
+log4j-1.2.17
+slf4j-api-1.7.5
+sl4fj-log4j12-1.7.5
