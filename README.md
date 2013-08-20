@@ -38,7 +38,7 @@ Required external jars:
 
 	commons-io-2.4
 
-commons-lang-2.6
+	commons-lang-2.6
 
 	commons--logging-1.1.3
 	
