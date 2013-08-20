@@ -11,3 +11,14 @@ In order to start ImageExtractor you need to have a file named pref.txt in the s
 You can run the program using
 	java -jar ImageExtractor.jar http://example.com
 from the command line where the argument is the webpage to look for the image in.
+
+For example, calling ImageExtractor with the arguments
+http://techcrunch.com/
+http://theradicalidea.wordpress.com
+http://belleofthelibrary.com/
+http://hippiecahier.com/
+http://colleenbriggs.com/
+
+Will all yield good results.
+
+ http://makeapowerfulpoint.com/ will work correctly if CSS is disabled, but will give the background texture if CSS is enabled. 
