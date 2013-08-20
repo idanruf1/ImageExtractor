@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Sun Aug 18 09:45:01 IDT 2013
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=IE.jar
+manifest.mergeall=true
+manifest.mainclass=com.jimplush.goose.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
