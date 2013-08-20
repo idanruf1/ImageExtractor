@@ -403,7 +403,11 @@ public class BestImageGuesser implements ImageExtractor {
   private boolean isOkImageFileName(Element imageNode) {
     String imgSrc = imageNode.attr("src");
     if (string.isNullOrEmpty(imgSrc)) {
-      return false;
+    	imgSrc = imageNode.attr("data-src");
+    	if (string.isNullOrEmpty(imgSrc))
+    		return false;
+    	else
+    		imageNode.attr("src",imgSrc);
     }
     matchBadImageNames.reset(imgSrc);
     if (matchBadImageNames.find()) {
