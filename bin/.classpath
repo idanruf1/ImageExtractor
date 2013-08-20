@@ -3,15 +3,14 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry excluding="src/" kind="src" path=""/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/Downloads/goose-1.4.1-FINALJAVA/src/main/java/com"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/jsoup-1.7.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/slf4j-1.7.5/slf4j-log4j12-1.7.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/apache-log4j-1.2.17/log4j-1.2.17.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/commons-logging-1.1.3/commons-logging-1.1.3.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/commons-io-2.4/commons-io-2.4.jar"/>
-	<classpathentry exported="true" kind="lib" path="C:/Users/Owner/workspace/ImageExtractor/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsoup-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-1.7.5/slf4j-api-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-1.7.5/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="apache-log4j-1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpcomponents-client-4.2.5/lib/httpclient-4.2.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpcomponents-client-4.2.5/lib/httpcore-4.2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-logging-1.1.3/commons-logging-1.1.3.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-io-2.4/commons-io-2.4.jar"/>
+	<classpathentry exported="true" kind="lib" path="commons-lang-2.6/commons-lang-2.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
