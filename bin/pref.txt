@@ -2,3 +2,4 @@ C:/Users/Owner/Documents
 C:/Program Files/ImageMagick-6.8.6-Q16/
 save=true
 all=true
+css=true

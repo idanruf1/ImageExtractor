@@ -53,3 +53,10 @@ Required external jars:
 	slf4j-api-1.7.5
 
 	sl4fj-log4j12-1.7.5
+
+========
+To use as library, import com.
+and use 
+
+	Main.extractImage(url, storagePath, imagemagickPath);
+Or the full method with the booleans.
